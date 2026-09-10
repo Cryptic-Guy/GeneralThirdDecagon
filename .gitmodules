@@ -1,3 +1,0 @@
-[submodule "my-v4-hook"]
-	path = my-v4-hook
-	url = https://github.com/Cryptic-Guy/uniswap-v4-time-gated-hook
